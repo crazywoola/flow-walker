@@ -1,5 +1,5 @@
 {
-  "name": "graph-core",
+  "name": "flow-walker",
   "version": "0.1.0",
   "description": "A library for graph manipulation",
   "main": "index.js",
@@ -17,8 +17,8 @@
     "parser",
     "node"
   ],
-  "bugs": "https://github.com/crazywoola/graph-core/issues",
-  "homepage": "https://github.com/crazywoola/graph-core#readme",
+  "bugs": "https://github.com/crazywoola/flow-walker/issues",
+  "homepage": "https://github.com/crazywoola/flow-walker#readme",
   "author": "@crazywoola",
   "license": "MIT",
   "devDependencies": {

@@ -7,8 +7,16 @@
     "url": "https://github.com/crazywoola/graph-core",
     "type": "git"
   },
+  "keywords": [
+    "json",
+    "yaml",
+    "graph",
+    "parser",
+    "node"
+  ],
   "bugs": "https://github.com/crazywoola/graph-core/issues",
-  "author": "pinkbanana",
+  "homepage": "https://github.com/crazywoola/graph-core#readme",
+  "author": "@crazywoola",
   "license": "MIT",
   "devDependencies": {
     "mocha": "^9.2.2"

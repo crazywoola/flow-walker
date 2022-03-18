@@ -1,7 +1,12 @@
 # graph-core
 
+![npm](https://img.shields.io/npm/v/flow-walker) [![GitHub license](https://img.shields.io/github/license/crazywoola/flow-walker)](https://github.com/crazywoola/flow-walker/blob/master/LICENSE)  
+
 ## Description
 
-![npm](https://img.shields.io/npm/v/flow-walker) [![GitHub license](https://img.shields.io/github/license/crazywoola/flow-walker)](https://github.com/crazywoola/flow-walker/blob/master/LICENSE)
+
+## Installation
+
+[![NPM](https://nodei.co/npm/flow-walker.png?mini=true)](https://www.npmjs.com/package/flow-walker) 
 
 ## Usage
